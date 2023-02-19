@@ -1,11 +1,19 @@
 package ca.nl.cna.java1.assignment1;
 
+/**
+ * @author 20124982
+ *
+ * Simple Progrom for bank accounts
+ * Able to show, withdraw and deposit funds as long as its above 0
+ * @@@ ASK ABOUT RESET METHOD
+ */
+
 public class Account {
     private String name; //instance variable
     private double balance; // instance variable
 
     public Account(String name, double balance) {   //Account constructor that receives two parameters
-        this.name = name;                           //assign name to instance variable anem
+        this.name = name;                           //assign name to instance variable name
         if (balance > 0.0) {                        //validate that the balance is greater than 0.0; if not,
             this.balance = balance;                 //instance variable balance keeps it default initial value of 0.0
         }
