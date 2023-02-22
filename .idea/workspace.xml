@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c29bf1-8ca8-4819-84a8-7bbe84e2ef0d" name="Changes" comment="First part of Modified class done">
+    <list default="true" id="64c29bf1-8ca8-4819-84a8-7bbe84e2ef0d" name="Changes" comment="Car class done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/InvoiceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/FunWithCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/nl/cna/java1/assignment1/FunWithCars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +60,15 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ca.nl.cna.java1.assignment1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +84,11 @@
       <workItem from="1676383712648" duration="16000" />
       <workItem from="1676383775560" duration="128000" />
       <workItem from="1676470689976" duration="1871000" />
-      <workItem from="1676841016206" duration="4151000" />
+      <workItem from="1676841016206" duration="5231000" />
+      <workItem from="1676894542104" duration="6815000" />
+      <workItem from="1676908340780" duration="3863000" />
+      <workItem from="1676927860302" duration="21164000" />
+      <workItem from="1677068295528" duration="8721000" />
     </task>
     <task id="LOCAL-00001" summary="First part of Modified class done">
       <created>1676383869108</created>
@@ -80,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676383869108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Car class done">
+      <created>1676846272893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676846272893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First part of Modified class done" />
-    <option name="LAST_COMMIT_MESSAGE" value="First part of Modified class done" />
+    <MESSAGE value="Car class done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car class done" />
   </component>
 </project>
